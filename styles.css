@@ -1,7 +1,12 @@
+@font-face {
+  font-family: ComicSans;
+  src: url(COMIC.TTF);
+}
+
 *{
   box-sizing: border-box;
   margin: 0;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: ComicSans, "Comic Sans MS", "Comic Sans", cursive;
 }
 
 #background{
